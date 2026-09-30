@@ -1,5 +1,5 @@
 ---
-name: mermaid-board
+name: map
 description: 用 Mermaid + HTML 双文件生成可刷新的可视化图（进度图、流程图、结构图）。Mermaid 源存 .md（事实源），HTML 由 build.py 从固定模板生成，用户双击浏览器打开。Trigger on "画个进度图"、"做张图"、"更新进度图"，或用户需要一张会反复更新的轻量示意图时。
 ---
 
